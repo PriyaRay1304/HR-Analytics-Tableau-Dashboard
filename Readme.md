@@ -22,7 +22,7 @@ Key Metrics
 - Average Age: 37
 
 Dashboard Preview
-![HR Analytics Dashboard](image/dashboard.png)
+![HR Analytics Dashboard](Image/Dashboard.png)
 
 Insights
 - Highest attrition observed in the 25–34 age group
